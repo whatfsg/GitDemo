@@ -15,6 +15,8 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         System.out.println("Whatsup");
+
+        System.out.println("Whatsapp");
         // TODO code application logic here
     }
     
